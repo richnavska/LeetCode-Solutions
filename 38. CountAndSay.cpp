@@ -11,7 +11,7 @@ if n = 2,
 the sequence is 11.
 */
 
-string Solution::countAndSay(int A) {
+string Solution::countAndSay(int A) 
     string result = "";
 
     if(!A)
