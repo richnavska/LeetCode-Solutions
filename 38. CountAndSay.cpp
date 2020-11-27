@@ -6,7 +6,7 @@ The count-and-say sequence is the sequence of integers beginning as follows:
 21 is read off as one 2, thone 1 or 1211.
 Given an integer n, generate the nth sequence.
 Note: The sequence of integers will be represented as a string.
-Example:
+Example
 if n = 2,
 the sequence is 11.
 */
